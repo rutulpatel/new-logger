@@ -1,6 +1,6 @@
 {
     "name": "new-logger",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "A next version of https://github.com/quirkey/node-logger logger",
     "main": "logger.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/rutulpatel/node-logger.git"
+        "url": "git+https://github.com/rutulpatel/new-logger.git"
     },
     "keywords": [
         "node",
