@@ -1,4 +1,4 @@
-# Its a forked version of [http://github.com/quirkey/node-logger](http://github.com/quirkey/node-logger) package with a minor change.
+# Its a forked version of [http://github.com/quirkey/node-logger](http://github.com/quirkey/node-logger) package with minor changes.
 # node-logger
 
 [http://github.com/quirkey/node-logger](http://github.com/quirkey/node-logger)
