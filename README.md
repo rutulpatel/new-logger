@@ -1,5 +1,5 @@
-# Its a forked version of [http://github.com/quirkey/node-logger](http://github.com/quirkey/node-logger) package with minor changes.
-# node-logger
+### Its a forked version of [http://github.com/quirkey/node-logger](http://github.com/quirkey/node-logger) package with minor changes.
+# node new-logger
 
 [https://github.com/rutulpatel/new-logger](https://github.com/rutulpatel/new-logger)
 
