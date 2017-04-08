@@ -1,7 +1,7 @@
 # Its a forked version of [http://github.com/quirkey/node-logger](http://github.com/quirkey/node-logger) package with a minor change.
 # node-logger
 
-[http://github.com/quirkey/node-logger](http://github.com/quirkey/node-logger)
+[https://github.com/rutulpatel/new-logger](https://github.com/rutulpatel/new-logger)
 
 ## SUMMARY
 
@@ -20,8 +20,8 @@ By default, a logger writes to STDOUT, but given a writeable file path, it will 
 ### Instantiation:
 
     // node/common.js style 
-    var logger = require('./logger').createLogger(); // logs to STDOUT
-    var logger = require('./logger').createLogger('development.log'); // logs to a file
+    var logger = require('new-logger').createLogger(); // logs to STDOUT
+    var logger = require('new-logger').createLogger('development.log'); // logs to a file
 
 ### Logging:
 
